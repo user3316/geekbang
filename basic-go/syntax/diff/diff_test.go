@@ -1,6 +1,6 @@
-package diff_test
+package diff
 
 func UseCeshi() {
-	diff.ceshi()
+	ceshi()
 
 }
